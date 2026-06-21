@@ -1,0 +1,5 @@
+question,ground_truth,model_output,token_limit
+Who directed the classic 30s western Stagecoach?,John Ford,"den.com>
+
+Question:
+What is the name of the stage that the passengers are",256
