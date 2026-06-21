@@ -1,0 +1,11 @@
+transformers
+datasets
+accelerate
+sentence-transformers
+faiss-cpu
+rank-bm25
+evaluate
+scikit-learn
+pandas
+tqdm
+torch
